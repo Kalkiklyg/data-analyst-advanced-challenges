@@ -1,0 +1,9 @@
+DAY 0 --repo created and initial problems added.
+Goal: 30 advanced problems in Python and SQL.
+
+DAY 1 -- Python Logic + SQL Queries.
+- Started with logic-focused Python practice: built a transaction summary function to separate income and expenses.
+- Used dictionaries and learned to print formatted results using f-strings.
+- Created SQL tables (`sales`, `custmer`) and practiced `JOIN`, `GROUP BY`, and aggregate functions.
+- Faced issues with query structure — learned that aliases and aggregates must be used carefully.
+- Goal for Day 2: Build a data analysis challenge combining both — clean data in Python, analyze results with SQL.
