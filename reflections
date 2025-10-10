@@ -7,3 +7,35 @@ DAY 1 -- Python Logic + SQL Queries.
 - Created SQL tables (`sales`, `custmer`) and practiced `JOIN`, `GROUP BY`, and aggregate functions.
 - Faced issues with query structure — learned that aliases and aggregates must be used carefully.
 - Goal for Day 2: Build a data analysis challenge combining both — clean data in Python, analyze results with SQL.
+
+📅 Day 2 — Expense Tracker Insights
+
+Focused on translating business logic into Python and SQL.
+
+Built an Expense Tracker that separates income & expenses, calculates totals, and finds top 3 spending categories.
+
+Strengthened understanding of loops, dictionaries, conditional logic, and formatted output with f-strings.
+
+In SQL, practiced JOIN, GROUP BY, and HAVING clauses to mirror Python logic at the database level.
+
+Faced challenges managing nested loops and aliasing in SQL; solved them by rewriting from the output backward.
+
+Takeaway: Thinking in steps before coding gives clarity — syntax follows logic.
+
+Next Goal: Integrate small visualizations with Matplotlib for every analytical script
+
+📅 Day 3 — Sales Analysis
+
+Shifted from basic logic to data-driven analysis using Pandas and SQL window functions.
+
+Cleaned and validated data types, calculated regional & customer totals, and identified top performers.
+
+Learned to use groupby, aggregation, ranking, and sorting for insight generation.
+
+Practiced RANK(), DENSE_RANK(), and ROW_NUMBER() in SQL to replicate analytical behavior across tools.
+
+Improved code readability through function-based design (clean_and_describe, totals_and_top_customers, etc.).
+
+Takeaway: Real analysis comes from combining technical logic + business context.
+
+Next Goal: Start automating summaries and exports (CSV / dashboard snippets).
