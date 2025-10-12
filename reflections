@@ -39,3 +39,11 @@ Improved code readability through function-based design (clean_and_describe, tot
 Takeaway: Real analysis comes from combining technical logic + business context.
 
 Next Goal: Start automating summaries and exports (CSV / dashboard snippets).
+
+### 📅 Day 4 — Mini Automation: Clean & Export Reports
+- Built a small, reusable cleaning pipeline using pandas to standardize columns, handle missing values, and coerce types.
+- Generated export-ready reports: `sales_by_region.csv`, `top_customers_by_sales.csv`, and `monthly_summary.csv`.
+- Verified results with a simple bar chart to ensure visual sanity checks before sharing reports.
+- Implemented the same logic in SQL queries to keep parity between data engineering and analytics layers.
+- **Takeaway:** Automating cleaning + export reduces manual errors and makes routine reporting reproducible. Next: schedule the pipeline and add basic logging & tests.
+
