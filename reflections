@@ -47,3 +47,18 @@ Next Goal: Start automating summaries and exports (CSV / dashboard snippets).
 - Implemented the same logic in SQL queries to keep parity between data engineering and analytics layers.
 - **Takeaway:** Automating cleaning + export reduces manual errors and makes routine reporting reproducible. Next: schedule the pipeline and add basic logging & tests.
 
+## 📅 Day 5 — Data Transformation & Insight Extraction
+
+**Python**
+- Created a sales performance report with performance %, status flag, and regional pivot summaries.
+- Strengthened understanding of pivot tables and conditional logic.
+- Automated CSV export for reporting.
+
+**SQL**
+- Implemented performance logic using CASE and AVG functions.
+- Practiced translating analytical logic from Python to SQL smoothly.
+
+**Reflection**
+- Transformation is where data becomes information.  
+- The goal is to make numbers talk — not just exist in tables.  
+- Today proved that logic + structure > syntax alone.
