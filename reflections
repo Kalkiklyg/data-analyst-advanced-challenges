@@ -78,3 +78,21 @@ Next Goal: Start automating summaries and exports (CSV / dashboard snippets).
 - Visualization bridges the gap between numbers and narratives.
 - A graph can make insights intuitive — analysis is only complete when it communicates clearly.
 - Today reminded me that data storytelling is the language of impact.
+
+# Day 7 — End-to-End Case Study: Reflection
+
+**What I built**
+- Ingested a raw-ish orders table, cleaned inconsistent amounts and dates, and handled refunds.
+- Computed business KPIs (total revenue, refunds, net), revenue by region, top customers, and monthly trends — both in Python and SQL.
+- Exported cleaned data and visuals for reporting.
+
+**What I learned**
+- Real datasets are messy: strings like "NaN" and commas in numbers are common. Defensive parsing is key.
+- Mirroring logic in SQL and Python increases confidence — if both match, the numbers are reliable.
+- Small enrichment (customer → region mapping) can unlock better aggregations.
+- Documentation & exported CSVs make work reproducible and shareable.
+
+**Next steps**
+- Scale the pipeline: create functions to process arbitrary CSVs.
+- Add more robust error-handling for date parsing and currency formats.
+- Convert insights into a short slide/report for non-technical stakeholders.
