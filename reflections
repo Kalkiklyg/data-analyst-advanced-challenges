@@ -96,3 +96,20 @@ Next Goal: Start automating summaries and exports (CSV / dashboard snippets).
 - Scale the pipeline: create functions to process arbitrary CSVs.
 - Add more robust error-handling for date parsing and currency formats.
 - Convert insights into a short slide/report for non-technical stakeholders.
+
+# Day 8 — Predictive Indicators: Forecasting the Future
+
+**Focus:** bridging analysis and prediction through simple forecasting.
+
+### Key Learnings
+- Learned how to model linear relationships between month and sales using regression.
+- SQL’s window functions helped derive growth trends and moving averages for comparison.
+- Discovered that even simple linear models can add business foresight if used responsibly.
+- Visualization clarified forecast trends better than raw numbers.
+
+### Takeaway
+Prediction isn’t about complexity — it’s about context. Even basic regression can inform strategy when combined with analytical judgment.
+
+**Next Steps:**
+- Add confidence intervals and seasonal adjustments.
+- Automate forecast refresh using dynamic CSV imports.
