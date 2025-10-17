@@ -97,7 +97,7 @@ Next Goal: Start automating summaries and exports (CSV / dashboard snippets).
 - Add more robust error-handling for date parsing and currency formats.
 - Convert insights into a short slide/report for non-technical stakeholders.
 
-# Day 8 — Predictive Indicators: Forecasting the Future
+# Day 9 — Predictive Indicators: Forecasting the Future
 
 **Focus:** bridging analysis and prediction through simple forecasting.
 
@@ -113,3 +113,20 @@ Prediction isn’t about complexity — it’s about context. Even basic regress
 **Next Steps:**
 - Add confidence intervals and seasonal adjustments.
 - Automate forecast refresh using dynamic CSV imports.
+
+# Day 8 — Predictive Indicators: Seeing What’s Next
+
+*Focus:* bridging data analysis and forecasting through simple prediction models.
+
+### 🧠 Key Learnings
+- Introduced predictive thinking using regression.
+- Derived growth and moving average insights through SQL.
+- Understood model evaluation metrics (MAE, R²).
+- Visualized future performance for quick stakeholder understanding.
+
+### 💡 Takeaway
+Forecasting is not guessing — it’s disciplined extrapolation of patterns.
+
+*Next Steps*
+- Add confidence intervals to forecast.
+- Automate dynamic updates through scheduled scripts
