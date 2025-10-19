@@ -130,3 +130,30 @@ Forecasting is not guessing — it’s disciplined extrapolation of patterns.
 *Next Steps*
 - Add confidence intervals to forecast.
 - Automate dynamic updates through scheduled scripts
+
+
+# Day 10 — Anomaly Detection
+
+**Focus:** Identifying and handling outliers that distort analysis.
+
+### Key Takeaways
+- Applied z-score and SQL statistical functions for anomaly detection.
+- Built an anomaly flag pipeline for easy validation.
+- Learned how one unusual data point can mislead KPIs and trend forecasts.
+
+### Mindset Note
+In analytics, truth often hides in anomalies. Great analysts question deviations, not just averages.
+
+# Day 11 — Correlation & Root-Cause Analysis
+
+**Focus:** Understanding relationships between business drivers.
+
+### Key Learnings
+- Computed correlation using both Python and SQL logic.
+- Learned to identify which metric drives another.
+- Shifted perspective from “What changed?” to “Why did it change?”
+
+### Mindset Note
+Data doesn’t whisper — it speaks clearly when you connect the right dots.
+
+
